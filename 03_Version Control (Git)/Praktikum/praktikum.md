@@ -1,0 +1,1 @@
+Link google docs untuk tugas ini :https://drive.google.com/file/d/12WAtjtcBmy56Ip64DxoPa-TEmf_O5dYO/view?usp=sharing
