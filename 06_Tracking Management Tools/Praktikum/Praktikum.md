@@ -1,1 +1,1 @@
-Link google docs untuk tugas ini : https://docs.google.com/document/d/1dpetiEmy_BYagmBzznEYYbgmjYDFWvh19SiwpDKzdKE/edit?usp=sharing
+Link google docs untuk tugas ini : https://docs.google.com/document/d/1dpetiEmy_BYagmBzznEYYbgmjYDFWvh19SiwpDKzdKE/edit?usp=sharing 
