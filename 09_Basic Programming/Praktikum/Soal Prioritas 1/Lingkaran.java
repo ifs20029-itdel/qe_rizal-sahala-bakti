@@ -1,12 +1,21 @@
+import java.util.Scanner;
+
 public class Lingkaran {
     public static void main(String[] args) {
-         
-        double phi = 3.14; 
+        Scanner input = new Scanner(System.in);
 
-        double jariJari = 7.0;  
-        
+        System.out.print("Masukkan jari-jari lingkaran: ");
+        double jariJari = input.nextDouble();
+
+        // Menggunakan nilai phi sebagai 3.14
+        double phi = 3.14;
+
+        // Menghitung luas lingkaran
         double luas = phi * jariJari * jariJari;
 
-        System.out.println("Luas lingkaran = " + luas);
+        // Menampilkan hasil
+        System.out.println("Luas lingkaran: " + luas);
+
+        input.close();
     }
 }

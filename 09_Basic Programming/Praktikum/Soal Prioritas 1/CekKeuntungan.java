@@ -18,7 +18,7 @@ public class CekKeuntungan {
         if (keuntungan > 0) {
             System.out.println("untung sebesar: " + keuntungan);
         } else if (keuntungan < 0) {
-            System.out.println("rugi sebesar: " + Math.abs(keuntungan));
+            System.out.println("rugi sebesar: " + "-" + Math.abs(keuntungan));
         } else {
             System.out.println("Sama saja.");
         }
