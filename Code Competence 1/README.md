@@ -1,0 +1,1 @@
+Link Spreadsheet untuk tugas ini : https://docs.google.com/spreadsheets/d/1VJ7UXxpYQPviWAyIhTlPxYxFDfSl_4f-A_uKR54Z5do/edit?usp=sharing
