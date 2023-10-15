@@ -1,0 +1,6 @@
+## Fundamental Perfomance Test
+
+1. Fundamental Performance Test adalah istilah yang mengacu pada tes kinerja dasar. Istilah ini mengacu pada serangkaian tes yang dirancang untuk mengukur kemampuan seseorang dalam melakukan tugas-tugas dasar yang terkait dengan pekerjaan tertentu.
+2. Performance Test atau yang biasa dikenal dengan istilah tes kinerja adalah metode untuk menguji kemampuan suatu sistem atau aplikasi untuk menangani beban kerja yang tinggi atau volume transaksi yang besar. Tes ini dilakukan untuk mengetahui bagaimana sistem atau aplikasi akan berkinerja dalam situasi yang memerlukan penggunaan sumber daya yang intensif.
+3. JMeter (Java Meter) adalah sebuah perangkat lunak open source yang digunakan untuk melakukan pengujian kinerja dan beban pada aplikasi web atau layanan web. JMeter dikembangkan oleh Apache Software Foundation dan ditulis dalam bahasa pemrograman Java.
+4. Post Processor dalam JMeter adalah salah satu komponen yang digunakan untuk memproses dan memanipulasi data respons yang diterima dari server setelah pengiriman permintaan oleh JMeter. Post Processor digunakan untuk melakukan ekstraksi data dari respons server dan melakukan transformasi data untuk pengujian selanjutnya.
