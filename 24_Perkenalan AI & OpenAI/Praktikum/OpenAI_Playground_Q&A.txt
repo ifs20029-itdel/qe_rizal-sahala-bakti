@@ -1,0 +1,40 @@
+Q: Kamu adalah seorang Software tester. Buatlah sebuah test case scenario login pada website "https://www.sepulsa.com/" 
+
+Nama Test Case: Login pada website "https://www.sepulsa.com/"
+
+Tujuan Testing: Memverifikasi fungsi login pada website "https://www.sepulsa.com/"
+
+Pre-condition:
+1. Memiliki akun terdaftar pada website "https://www.sepulsa.com/"
+2. Memiliki koneksi internet yang stabil
+
+Langkah - langkah testing:
+1. Buka browser dan masuk ke website "https://www.sepulsa.com/"
+2. Klik pada menu "Login" yang terdapat di bagian atas kanan halaman
+3. Masukkan email yang terdaftar pada kolom "Email"
+4. Masukkan password yang sesuai pada kolom "Password"
+5. Klik "Login" untuk masuk ke halaman akun
+6. Verifikasi apakah halaman akun sudah terbuka dengan baik
+7. Masukkan email yang tidak terdaftar pada kolom "Email"
+8. Masukkan password yang sesuai pada kolom "Password"
+9. Klik "Login"
+10. Verifikasi apakah muncul pesan "Email tersebut tidak terdaftar"
+11. Masukkan email yang terdaftar pada kolom "Email"
+12. Masukkan
+
+Q: Buat tahapan pengujian dari kasus pengujian di atas yang alatnya menggunakan Selenium IDE
+
+1. Buka Google Chrome atau browser lainnya yang mendukung Selenium IDE.
+2. Download dan install Selenium IDE pada browser tersebut.
+3. Buka Selenium IDE di browser tersebut dan pastikan sudah terkoneksi dengan website "https://www.sepulsa.com/".
+4. Buat sebuah test case baru dengan nama "Login pada website Sepulsa"
+5. Tambahkan langkah-langkah yang diperlukan yaitu klik menu "Login", masukkan email dan password pada kolom yang tersedia, klik "Login" dan verifikasi halaman akun terbuka dengan baik.
+6. Jalankan test case tersebut.
+7. Verifikasi apakah langkah-langkah tersebut berhasil dilakukan secara benar dan tidak ada error yang muncul.
+8. Uji coba kembali dengan mengisi kolom "Email" dengan email yang tidak terdaftar dan verifikasi pesan yang muncul.
+9. Uji coba kembali dengan memasukkan email yang terdaftar tetapi password salah, dan verifikasi pesan yang muncul.
+10. Ulangi langkah-langkah di atas pada browser lain untuk memastikan keberhasilan test case tanpa adanya error.
+
+Q: Apakah pada pengujian yang telah dilakukan terdapat bug? 
+
+A: Ya, pada tahap pengujian kedua (langkah 10), terdapat bug yaitu tidak munculnya pesan error ketika password yang dimasukkan salah pada kolom "Password". Seharusnya muncul pesan "Password yang dimasukkan salah" untuk memberikan feedback kepada pengguna bahwa password yang dimasukkan belum benar. 
